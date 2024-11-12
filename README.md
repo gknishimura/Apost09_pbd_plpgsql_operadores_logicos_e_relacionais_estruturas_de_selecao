@@ -1,0 +1,2 @@
+# Apost09_pbd_plpgsql_operadores_logicos_e_relacionais_estruturas_de_selecao
+Para realização dos exercícios da apostila 09
